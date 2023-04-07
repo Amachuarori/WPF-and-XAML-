@@ -1,0 +1,32 @@
+﻿<Window x:Class="WPF_02.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_02"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <StackPanel>
+        <TextBlock HorizontalAlignment="Center" Margin="20">Hello World!</TextBlock>
+
+        <ListBox Height="100" Width="100" Margin="20">
+            <ListBoxItem Content="Item1"/>
+            <ListBoxItem Content="Item2"/>
+            <ListBoxItem Content="Item3"/>
+        </ListBox>
+
+        <Button Content="Click me" Click="Button_Click" Width="50" Height="50" Margin="0"></Button>
+        
+        <Button Content="Click me" Click="Clicking" Width="150" Height="100" Margin="20"/>
+
+        <Button Content="Click me" MouseUp="Button_MouseUp" Width="150" Height="100" Margin="20"/>
+
+        <Button Content="Click me" PreviewMouseUp="Button_PreviewMouseUp" Width="150" Height="100" Margin="20"/>
+
+        <Button Content="Click me" PreviewMouseLeftButtonDown ="Button_PreviewMouseLeftButtonDown" PreviewMouseRightButtonUp="Button_PreviewMouseRightButtonUp" Width="50" Height="50" Margin="10"/>
+
+    </StackPanel>
+
+    
+        
+</Window>
