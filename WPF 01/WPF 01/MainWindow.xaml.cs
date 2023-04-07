@@ -34,7 +34,7 @@ namespace WPF_01
             btn1.Height = 50;
             btn1.Width = 150;
             btn1.FontSize = 20;
-            btn1.Content = "POPA";
+            btn1.Content = "PEW";
             btn1.Margin = new Thickness(212, 197, 0, 0);
 
             WrapPanel wrapPanel = new WrapPanel();
