@@ -1,0 +1,17 @@
+C:\Users\Amachuarori\source\repos\INPC\INPC\bin\Debug\INPC.exe.config
+C:\Users\Amachuarori\source\repos\INPC\INPC\bin\Debug\INPC.exe
+C:\Users\Amachuarori\source\repos\INPC\INPC\bin\Debug\INPC.pdb
+C:\Users\Amachuarori\source\repos\INPC\INPC\obj\Debug\INPC.csproj.AssemblyReference.cache
+C:\Users\Amachuarori\source\repos\INPC\INPC\obj\Debug\INPC.csproj.SuggestedBindingRedirects.cache
+C:\Users\Amachuarori\source\repos\INPC\INPC\obj\Debug\MainWindow.g.cs
+C:\Users\Amachuarori\source\repos\INPC\INPC\obj\Debug\App.g.cs
+C:\Users\Amachuarori\source\repos\INPC\INPC\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Amachuarori\source\repos\INPC\INPC\obj\Debug\INPC_MarkupCompile.cache
+C:\Users\Amachuarori\source\repos\INPC\INPC\obj\Debug\INPC_MarkupCompile.lref
+C:\Users\Amachuarori\source\repos\INPC\INPC\obj\Debug\MainWindow.baml
+C:\Users\Amachuarori\source\repos\INPC\INPC\obj\Debug\INPC.g.resources
+C:\Users\Amachuarori\source\repos\INPC\INPC\obj\Debug\INPC.Properties.Resources.resources
+C:\Users\Amachuarori\source\repos\INPC\INPC\obj\Debug\INPC.csproj.GenerateResource.cache
+C:\Users\Amachuarori\source\repos\INPC\INPC\obj\Debug\INPC.csproj.CoreCompileInputs.cache
+C:\Users\Amachuarori\source\repos\INPC\INPC\obj\Debug\INPC.exe
+C:\Users\Amachuarori\source\repos\INPC\INPC\obj\Debug\INPC.pdb
